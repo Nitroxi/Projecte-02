@@ -10,6 +10,8 @@ Tenen un portàtil amb Zorin OS (un Linux amb entorn gràfic) que usava habitual
 El problema és que ha oblidat la contrasenya i és necessari poder recuperar l’accés perquè hi ha documentació molt important que cal recuperar.  
 Per evitar que una acció catastròfica pugui danyar l’equip original, ens han clonat el disc en un disc virtual perquè hi treballeu.
 
+![imagen](img/t3.png)
+
 Per tant, el primer pas serà crear una màquina virtual al que connectareu aquest disc.  
 A continuació, cal que entreu a la màquina virtual, trobeu el nom de l’usuari existent i assigneu-li una contrasenya nova.
 
