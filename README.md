@@ -1,37 +1,36 @@
-# Projecte 2: Seguretat Lògica - Recuperant accés a sistemes
+# Projecte 2: Consultoria EverPia
 
 ## Descripció del projecte
-Aquest projecte consisteix en recuperar l'accés a un sistema Linux (Zorin OS) quan s'ha oblidat la contrasenya de l'usuari principal. Per fer-ho, es treballa sobre un disc virtual clonat per evitar danys al sistema original.
+L’origen d’**EverPia** es remunta a uns anys enrere, quan vuit professors —**Rubén, Isabel, Carles Alonso, Cristian, Carles Fugarolas, Natalia i Núria**— van decidir unir les seves forces. Tots ells compartien una passió: la informàtica i l’educació. Però també una convicció profunda: la tecnologia no té sentit si no ajuda a les persones i a les organitzacions a créixer.
 
-A més, es protegeix l'accés al gestor d'arrencada GRUB per evitar que qualsevol persona pugui reiniciar la contrasenya mitjançant la modificació de la configuració d'arrencada.
+Junts van fundar la consultora EverPia, un nom que uneix *ever* (sempre) amb *Pia*, en homenatge a l’esperit educatiu i a la visió de treballar per un futur millor. La seva llegenda comença en una petita sala plena de cables i ordinadors antics, on van jurar: *Mai treballarem sols. Cada projecte serà una oportunitat per créixer junts.*
 
-## Tasques realitzades
-- Creació d'una màquina virtual amb el disc virtual proporcionat.
-- Accés a la màquina virtual i identificació dels usuaris existents.
-- Recuperació i modificació de la contrasenya de l'usuari.
-- Investigació i implementació de mesures de seguretat per protegir l'accés al GRUB amb contrasenya.
-- Documentació detallada del procés, incloent-hi captures de pantalla.
+## Temes del curs
+
+- **T01:** Control de versions amb git i GitHub  
+- **T02:** Selecció d’un SAI per una empresa client  
+- **T03:** Seguretat Lògica: recuperant accés a sistemes  
+- **T04:** Configurant i administrant un servidor Linux  
+- **T05:** El servei de DHCP: introducció teòrica  
+- **T06:** El servei de DHCP: configuració pràctica  
+- **T07:** Idea de negoci responsable socialment  
+- **T08:** Assessorament de domini i hosting (per client assignat) - Aplicacions web  
+- **T09:** Donar-se d’alta en un hosting gratuït - Aplicacions Web & PI  
+- **T10:** Màsterclass de Markdown  
+- **T11:** Instal·lació de WordPress en local amb WP Local – Aplicacions Web  
 
 ## Objectius específics
 - Recuperar l'accés a sistemes amb contrasenya oblidada.
 - Fortificar l'accés al GRUB per protegir la configuració d'arrencada.
 
 ## Materials de suport
-- Disc virtual amb la imatge clonada.
-- Apunts RA1AA4 Seguretat Lògica.
-- Guia de recuperació de contrasenya en Linux: [Recuperando password en Ubuntu](https://waytoit.wordpress.com/2013/06/06/recuperando-password-en-ubuntu/).
+- Meterials i recursos: [Drive](https://drive.google.com/drive/folders/1Z9m0VSXtjFkHs7ImKHWc0PxgC1FzSdVm)
 
-## Instruccions d'ús
-1. Crear una màquina virtual i muntar el disc virtual proporcionat.
-2. Arrencar la màquina i accedir al sistema via GRUB.
-3. Seguir el procediment de recuperació de contrasenya per l'usuari identificat.
-4. Configurar protecció per contrasenya al GRUB per evitar modificacions no autoritzades.
-5. Verificar que el nou accés funciona correctament i que el GRUB està protegit.
 
 ## Fonts i referències
-- Documentació oficial de Zorin OS i GRUB.
-- Recursos en línia sobre recuperació de contrasenyes en Linux.
-- Procediments de seguretat en configuració d'arrencada.
+- Documentació oficial: [Doc Projecte:2](https://docs.google.com/document/d/1T-ZolnNG4M_l87NFgdeywkjHU5JEy2Zk/edit)
+- Documentació Linux.
+- Eines ofimàtica 
 
 ## Autor
 [Nezar Mghari Boussaada]
