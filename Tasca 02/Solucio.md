@@ -107,4 +107,5 @@ Cerca de 2 o 3 models de SAI que compleixin els requisits. Comparació de caract
 ---
 
 **Fi del document.**
-[*Tornar?*](README.md)
+
+- [Tornar: README.md](README.md)
