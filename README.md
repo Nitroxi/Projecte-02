@@ -3,8 +3,6 @@
 ## Descripció del projecte
 L’origen d’**EverPia** es remunta a uns anys enrere, quan vuit professors —**Rubén, Isabel, Carles Alonso, Cristian, Carles Fugarolas, Natalia i Núria**— van decidir unir les seves forces. Tots ells compartien una passió: la informàtica i l’educació. Però també una convicció profunda: la tecnologia no té sentit si no ajuda a les persones i a les organitzacions a créixer.
 
-![imagen](img/t3.png)
-
 Junts van fundar la consultora EverPia, un nom que uneix *ever* (sempre) amb *Pia*, en homenatge a l’esperit educatiu i a la visió de treballar per un futur millor. La seva llegenda comença en una petita sala plena de cables i ordinadors antics, on van jurar: *Mai treballarem sols. Cada projecte serà una oportunitat per créixer junts.*
 
 ## Temes del curs
