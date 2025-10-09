@@ -8,8 +8,8 @@ Junts van fundar la consultora EverPia, un nom que uneix *ever* (sempre) amb *Pi
 ## Temes del curs
 
 - **T01:** Control de versions amb git i GitHub  
-- **T02:** [Selecció d’un SAI per una empresa client](Projecte-02/Tasca\02/README.md)
-- **T03:** Seguretat Lògica: recuperant accés a sistemes  
+- **T02:** [Selecció d’un SAI per una empresa client](Projecte-02/Tasca%2002/README.md)
+- **T03:** [Seguretat Lògica: recuperant accés a sistemes](Projecte-02/Tasca%2003/README.md)
 - **T04:** Configurant i administrant un servidor Linux  
 - **T05:** El servei de DHCP: introducció teòrica  
 - **T06:** El servei de DHCP: configuració pràctica  
