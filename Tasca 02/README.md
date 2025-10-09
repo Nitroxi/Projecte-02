@@ -38,4 +38,5 @@ Redacció d’un informe amb:
 ## Material de suport
 - Apunts RA1AA3 El SAI (igual este)
 
+- [**Solució**](Solucio.md)
 - [**Tornar el projecte**](../README.md)
