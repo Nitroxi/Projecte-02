@@ -102,3 +102,5 @@ Per exemple, es pot posar una contrasenya al GRUB perquè no s’hi pugui entrar
 6. **I ja estaria 👍**
    
 ![imagen](img/14.png)
+
+- [Tornar: README.md](README.md)
