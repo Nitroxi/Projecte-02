@@ -56,7 +56,7 @@ La documentació s’haurà de redactar íntegrament en **Markdown** i pujar-se 
 
 ---
 
-## Plantilla de documentació per a cada client
+## [Plantilla de documentació per a cada client](https://docs.google.com/spreadsheets/d/1VQAIabEeYRtMsLjFhkIWd8ewPZLBsxJYUa5aygomiY4/edit?gid=0#gid=0)
 
 Copia aquest esquema dins la carpeta `T08/` del vostre repositori per a cada client assignat.
 
@@ -116,4 +116,4 @@ Copia aquest esquema dins la carpeta `T08/` del vostre repositori per a cada cli
 **Recorda:**  
 - Adjunta evidències (captures, proves, càlculs de cost) a la carpeta corresponent.
 - Tot el document ha de ser en format **Markdown**.
-- Aquesta documentació serà la base de la presentació P03.
+- [Aquesta documentació serà la base de la presentació P03.](https://docs.google.com/spreadsheets/d/1VQAIabEeYRtMsLjFhkIWd8ewPZLBsxJYUa5aygomiY4/edit?usp=sharing)
