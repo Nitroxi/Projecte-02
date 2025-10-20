@@ -117,3 +117,7 @@ Copia aquest esquema dins la carpeta `T08/` del vostre repositori per a cada cli
 - Adjunta evidències (captures, proves, càlculs de cost) a la carpeta corresponent.
 - Tot el document ha de ser en format **Markdown**.
 - [Aquesta documentació serà la base de la presentació P03.](https://docs.google.com/spreadsheets/d/1VQAIabEeYRtMsLjFhkIWd8ewPZLBsxJYUa5aygomiY4/edit?usp=sharing)
+
+- [**Solució**](Solucio.md)
+- [**Tornar el projecte**](../README.md)
+
