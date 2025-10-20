@@ -14,7 +14,7 @@ Junts van fundar la consultora EverPia, un nom que uneix *ever* (sempre) amb *Pi
 - **T05:** El servei de DHCP: introducció teòrica  
 - **T06:** El servei de DHCP: configuració pràctica  
 - **T07:** Idea de negoci responsable socialment  
-- **T08:** Assessorament de domini i hosting (per client assignat) - Aplicacions web  
+- **T08:** [Assessorament de domini i hosting (per client assignat) - Aplicacions web](Tasca%2008/README.md)
 - **T09:** Donar-se d’alta en un hosting gratuït - Aplicacions Web & PI  
 - **T10:** Màsterclass de Markdown  
 - **T11:** Instal·lació de WordPress en local amb WP Local – Aplicacions Web  
